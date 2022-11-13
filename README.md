@@ -1,2 +1,3 @@
-# ios-mybank-ui-kit
-UIKit Swift Package for MyBank App
+# MyBankUiKit
+
+A description of this package.
